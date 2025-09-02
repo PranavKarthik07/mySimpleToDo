@@ -1,0 +1,1 @@
+This is a simple to-do app that allows users to add, delete, edit and mark as complete on tasks. This uses local storage to store the tasks.
